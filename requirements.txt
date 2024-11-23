@@ -1,2 +1,13 @@
-flask>=2.0.0
-gunicorn>=20.1.0
+flask
+flask-socketio
+shodan
+python-vlc
+tqdm
+eventlet   # Nécessaire pour Flask-SocketIO
+gunicorn
+eventlet
+ffmpeg-python
+firebase_admin
+
+
+
